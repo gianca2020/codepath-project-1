@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Project1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Giancarlo Forero**
 
-This web app: **insert description**
+This web app: **List of ufc champions and links to their records (its my twist on the food trucks and menus)**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 

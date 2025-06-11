@@ -1,17 +1,42 @@
-<<<<<<< HEAD
-# React + Vite
+# Web Development Project 1 - *Name of App Here*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Your Name Here**
 
-Currently, two official plugins are available:
+This web app: **insert description**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **X** hours spent in total
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# codepath-project-1
-Project 1 for codepath
->>>>>>> b08855da570e137df6c7937281276995b9074500
+The following **required** functionality is completed:
+
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed 
+  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [x] Each card should include some information about the event or resource
+
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to a related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you added to improve the site's functionality!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://i.imgur.com/iHbashj.gif' title='Project1' width='' alt='Video Walkthrough' />
+
+
+## Notes
+
+Problem with uploading GIF to GitHub, making it responve took me a while.
+
